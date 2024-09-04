@@ -1,0 +1,21 @@
+.tile img{
+
+ width: 150px; 
+height: 100px;
+border-radius:3px;
+padding: 1px;
+background-position: center;
+box-shadow: #eb1034;
+}
+
+.title_wrapper{
+    cursor: pointer;
+    padding: 5px;
+    margin: 10px;
+}
+
+.selected{
+    border: 5px solid #9b990a;
+    border-radius: 5px;
+    
+}
